@@ -1,1 +1,1 @@
-![Alt Text](https://bitbucket.org/nbthales/contador_de_pessoas/raw/8e353d882aa99d46f65176f6dd236797db58b495/images/contador_de_pessoas.gif)
+![Alt Text](https://github.com/nbthales/contador_de_pessoas/blob/master/images/contador_de_pessoas.gif?raw=true)
